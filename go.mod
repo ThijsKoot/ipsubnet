@@ -1,3 +1,3 @@
-module github.com/arnobroekhof/ipsubnet
+module github.com/thijskoot/ipsubnet
 
 go 1.14
